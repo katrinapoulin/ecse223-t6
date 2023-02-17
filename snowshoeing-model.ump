@@ -15,6 +15,7 @@ class CourseSection {
 
 // association declared separately
 // hello
+// katrina added this
 association {
 	* CourseSection -- * Student registrant;
 }
